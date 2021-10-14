@@ -56,3 +56,4 @@ int is_palindrome(listint_t **head)
   reverse(&temp);
   return (1);
 }
+
